@@ -26,7 +26,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "mozilla/security/mozcapsicum.h"
+#include "mozcapsicum.h"
 
 using mozilla::mozcapsicum::Rights;
 
